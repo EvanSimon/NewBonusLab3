@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\NewBonus3\NewBonus3\obj\Debug\NewBonus3.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\NewBonus3\NewBonus3\obj\Debug\NewBonus3.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\NewBonus3\NewBonus3\bin\Debug\NewBonus3.exe.config
+C:\Users\Evans\source\repos\NewBonus3\NewBonus3\bin\Debug\NewBonus3.exe
+C:\Users\Evans\source\repos\NewBonus3\NewBonus3\bin\Debug\NewBonus3.pdb
+C:\Users\Evans\source\repos\NewBonus3\NewBonus3\obj\Debug\NewBonus3.exe
+C:\Users\Evans\source\repos\NewBonus3\NewBonus3\obj\Debug\NewBonus3.pdb
